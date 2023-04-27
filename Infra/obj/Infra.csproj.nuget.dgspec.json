@@ -27,7 +27,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Heitor\\OneDrive\\Dev\\Sistema Financeir - Angular - NET\\Financeiro_2023\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Heitor\\OneDrive\\Dev\\Sistema Financeir - Angular - NET\\Financeiro_2023\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

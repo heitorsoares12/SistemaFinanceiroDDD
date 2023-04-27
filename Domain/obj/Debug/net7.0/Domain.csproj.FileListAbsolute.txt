@@ -22,3 +22,6 @@ C:\Users\Heitor\OneDrive\Dev\Sistema Financeir - Angular - NET\Financeiro_2023\D
 C:\Users\Heitor\OneDrive\Dev\Sistema Financeir - Angular - NET\Financeiro_2023\Domain\obj\Debug\net7.0\refint\Domain.dll
 C:\Users\Heitor\OneDrive\Dev\Sistema Financeir - Angular - NET\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.pdb
 C:\Users\Heitor\OneDrive\Dev\Sistema Financeir - Angular - NET\Financeiro_2023\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\Heitor\OneDrive\Dev\Sistema Financeir - Angular - NET\Financeiro_2023\Domain\bin\Debug\net7.0\Entities.dll
+C:\Users\Heitor\OneDrive\Dev\Sistema Financeir - Angular - NET\Financeiro_2023\Domain\bin\Debug\net7.0\Entities.pdb
+C:\Users\Heitor\OneDrive\Dev\Sistema Financeir - Angular - NET\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
